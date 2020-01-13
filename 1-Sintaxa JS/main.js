@@ -66,3 +66,10 @@ console.log(name);
 console.log(name.length);
 console.log(name.split(" "));
 
+/*Masive*/
+console.clear();
+const numbers = [3, 2, 9, 7];
+console.log(numbers);
+console.log(numbers.length);
+numbers.sort()
+console.log(numbers);
