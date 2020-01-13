@@ -6,9 +6,13 @@ let b = 5;
 //console.log(a + b)
 console.log(suma(3, 3));
 
+
+/*Functie JS*/
 function suma(a, b){
 	return a + b;
 }
+
+/*Instructiuni de decizie*/
 
 const n = 2;
 if(n > 0){
@@ -34,7 +38,7 @@ switch(cifra){
 	default: 
 		console.log("Nu est ecifra")
 }
-
+/*Instructiuni repetitive*/
 
 for(let i = 1; i <=5; i++){
 	console.log(i);	
@@ -51,3 +55,14 @@ do{
 	console.log(i);	
 	i++;
 }while( i <=5);
+
+
+/*Siruri de caractere*/
+console.clear();
+
+const name = "Ion Creanga";
+
+console.log(name);
+console.log(name.length);
+console.log(name.split(" "));
+
