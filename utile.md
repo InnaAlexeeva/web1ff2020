@@ -3,6 +3,7 @@
 * https://javascript.info/
 
 ==== jQuery ====
+
 Situl oficial http://jquery.com
 Situl cu elemente UI http://jqueryui.com
 
