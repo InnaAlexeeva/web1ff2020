@@ -2,6 +2,14 @@
 
 * https://javascript.info/
 
+==== jQuery ====
+Situl oficial http://jquery.com
+Situl cu elemente UI http://jqueryui.com
+
+Configurator vizual de galerii foto http://highslide.com/editor/
+
+Validarea formularelor https://github.com/posabsolute/jQuery-Validation-Engine
+
 
 ====Frameworkuri JS====
 
