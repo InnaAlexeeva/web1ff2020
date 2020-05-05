@@ -4,6 +4,10 @@ document.addEventListener("DOMContentLoaded", function(){
   setInterval(() => {
     addButton(count, maxButtons);
   }, 1000);
+  
+  setTimeout(() => {
+    alert("Hello. I am JavaScript");
+  }, 7000)
 });
 
 function addButton (count, maxButtons) {
