@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function(){
 });
 
 function init(){
-  const colors = ["red", "green", "blue", "cyan", "pink"];
+  const colors = ["red", "#003300", "blue", "cyan", "pink"];
   
   for(const color of colors){
     const button = document.createElement("button");
